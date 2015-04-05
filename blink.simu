@@ -1,0 +1,9 @@
+<circuit type="simu">
+ 
+Arduino Uno-1boardled: 
+<item labelrot="0" threshold="2.4" objectName="Arduino Uno-1boardled" x="-45" y="14" itemtype="LEDSMD" rotation="0" labelx="0" labely="-24" MaxCurrent="0.003" Show_id="false" id="Arduino Uno-1boardled"/>
+ 
+Arduino Uno-1: 
+<item labelrot="0" objectName="Arduino Uno-1" x="-84" program="" y="-76" itemtype="Arduino" rotation="0" labelx="-38" labely="-137" Show_id="false" id="Arduino Uno-1"/>
+ 
+</circuit>
